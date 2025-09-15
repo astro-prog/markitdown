@@ -232,7 +232,7 @@ You can help by looking at issues or helping review PRs. Any issue or PR is welc
   # Reopen the project in Devcontainer and run:
   hatch test
   ```
-
+goat
 - Run pre-commit checks before submitting a PR: `pre-commit run --all-files`
 
 ### Contributing 3rd-party Plugins
